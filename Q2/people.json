@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Hussein Mohamed",
+    "age": 25,
+    "email": "Hussein.Mohamed@example.com"
+  },
+  {
+    "name": "Ibrahim Ahmed",
+    "age": 30,
+    "email": "Ibrahim.Ahmed@example.com"
+  },
+  {
+    "name": "Hassan Mahmoud",
+    "age": 22,
+    "email": "Hassan.Mahmoud@example.com"
+  },
+  {
+    "name": "Mohamed Essam",
+    "age": 28,
+    "email": "Mohamed.Essam@example.com"
+  },
+  {
+    "name": "Maher Mohamed",
+    "age": 27,
+    "email": "Maher.Mohamed@example.com"
+  }
+]
